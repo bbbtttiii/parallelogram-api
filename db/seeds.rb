@@ -8,3 +8,4 @@
 
 
 User.create(username: "Bob", email:"bob@bob.bob", password: "password")
+Article.create(title: "Blah", author: "Haha", content: "Asdf asdfasdf asdf asdf asdf !", tag: "science")
