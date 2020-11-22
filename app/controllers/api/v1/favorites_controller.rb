@@ -1,4 +1,4 @@
-class FavoritesController < ApplicationController
+class Api::V1::FavoritesController < ApplicationController
   before_action :set_favorite, only: [:show, :update, :destroy]
 
   # GET /favorites
@@ -25,13 +25,13 @@ class FavoritesController < ApplicationController
   end
 
   # PATCH/PUT /favorites/1
-  def update
-    if @favorite.update(favorite_params)
-      render json: @favorite
-    else
-      render json: @favorite.errors, status: :unprocessable_entity
-    end
-  end
+  # def update
+  #   if @favorite.update(favorite_params)
+  #     render json: @favorite
+  #   else
+  #     render json: @favorite.errors, status: :unprocessable_entity
+  #   end
+  # end
 
   # DELETE /favorites/1
   def destroy
