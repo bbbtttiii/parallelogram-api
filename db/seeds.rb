@@ -12,6 +12,7 @@ User.create(username: "Joe", email:"joe@joe.joe", password: "password")
 
 Article.create(title: "Article 1",
                author: "Haha Haha",
+               summary: "Warm-heartedness reinforces our self-confidence giving us not a blind confidence, but a sense of confidence based on reason.",
                content: "Warm-heartedness reinforces our self-confidence giving us not a blind confidence, but a sense of confidence based on reason. When you have that you can act transparently, with nothing to hide! Likewise, if you are honest, the community will trust you. Trust brings friendship, as a result of which you can always feel happy. Whether you look to the right or the left, you will always be able to smile.
 
                The practice of patience guards us against losing our presence of mind. It enables us to remain undisturbed, even when the situation is really difficult. It gives us a certain amount of inner peace, which allows us some self-control, so that we can choose to respond to situations in an appropriate and compassionate manner, rather than being driven by our disturbing emotions.
@@ -23,6 +24,7 @@ Article.create(title: "Article 1",
 
 Article.create(title: "Article 2",
                author: "Asdf JKL",
+               summary: "Intelligent beings the carbon in our apple pies rich in mystery decipherment two ghostly white figures in coveralls and helmets are softly dancing birth."
                content: "Intelligent beings the carbon in our apple pies rich in mystery decipherment two ghostly white figures in coveralls and helmets are softly dancing birth. Extraordinary claims require extraordinary evidence Neque porro quisquam est star stuff harvesting star light hundreds of thousands sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur?
 
                Hearts of the stars quasar prime number Jean-François Champollion corpus callosum extraordinary claims require extraordinary evidence. Brain is the seed of intelligence brain is the seed of intelligence shores of the cosmic ocean take root and flourish star stuff harvesting star light star stuff harvesting star light. A mote of dust suspended in a sunbeam two ghostly white figures in coveralls and helmets are softly dancing Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit a very small stage in a vast cosmic arena two ghostly white figures in coveralls and helmets are softly dancing sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
@@ -40,6 +42,7 @@ Article.create(title: "Article 2",
 
 Article.create(title: "Article 3",
                author: "Asdf JKL",
+               summary: "Quis nostrum exercitationem ullam corporis suscipit laboriosam a mote of dust suspended in a sunbeam Cambrian explosion Jean-François Champollion globular star cluster Ut enim ad minima veniam?",
                content: "Quis nostrum exercitationem ullam corporis suscipit laboriosam a mote of dust suspended in a sunbeam Cambrian explosion Jean-François Champollion globular star cluster Ut enim ad minima veniam? Euclid not a sunrise but a galaxyrise sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est a billion trillion.
 
                Birth Ut enim ad minima veniam galaxies Sea of Tranquility hearts of the stars hundreds of thousands? Are creatures of the cosmos shores of the cosmic ocean across the centuries something incredible is waiting to be known citizens of distant epochs dream of the mind's eye? Inconspicuous motes of rock and gas Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium adipisci velit another world citizens of distant epochs another world.
@@ -49,6 +52,7 @@ Article.create(title: "Article 3",
 
 Article.create(title: "Article 4",
                author: "Author Name",
+               summary: "Greenling yellow jack, goatfish sucker lenok Bengal danio zebra oto beaked sandfish--stickleback pearlfish eelpout flagblenny.",
                content: "Greenling yellow jack, goatfish sucker lenok Bengal danio zebra oto beaked sandfish--stickleback pearlfish eelpout flagblenny. Driftwood catfish grenadier snubnose parasitic eel driftwood catfish zebra danio leaffish Celebes rainbowfish skipping goby swamp-eel common carp. Dragon goby boga California flyingfish moonfish sailfin silverside Pacific saury, clingfish gopher rockfish. Skipjack tuna pricklefish Pacific albacore blackfish Pacific cod discus harelip sucker! Pollock sand knifefish slimehead, barred danio needlefish grideye; armored gurnard boafish Black scalyfin Peter's elephantnose fish, ray.
 
                Banded killifish whale catfish, yellow-and-black triplefin Australian lungfish, tubeshoulder Ragfish ghost fish cutlassfish kelpfish sturgeon emperor bream frogmouth catfish. Porbeagle shark cuckoo wrasse ribbon sawtail fish sand tiger grideye hog sucker pompano dolphinfish summer flounder; round whitefish. Minnow Pacific saury, orbicular velvetfish brown trout bigeye squaretail dogteeth tetra.
@@ -57,7 +61,7 @@ Article.create(title: "Article 4",
                
                Common tunny plownose chimaera; cuckoo wrasse spearfish sarcastic fringehead sailbearer dusky grouper; walleye Pacific herring blue eye. Mozambique tilapia cherry salmon searobin tenuis, manefish angler tope Oriental loach dogfish zebra lionfish, scup oceanic whitetip shark spiderfish. Sand lance largemouth bass eelblenny barbeled dragonfish stonefish sand knifefish cutthroat eel; Black scalyfin, wahoo Black sea bass snailfish starry flounder yellowtail barracuda. Porgy garibaldi orangespine unicorn fish, dogfish shark tenuis Reedfish pike conger anglerfish, Sacramento splittail hillstream loach.
                
-               Red snapper weeverfish convict blenny walu electric knifefish glass knifefish speckled trout, pilot fish, "coelacanth gombessa, ladyfish." Canary rockfish whiptail gulper gibberfish harelip sucker lionfish mako shark yellowbanded perch freshwater hatchetfish wrasse.
+               Red snapper weeverfish convict blenny walu electric knifefish glass knifefish speckled trout, pilot fish, coelacanth gombessa, ladyfish. Canary rockfish whiptail gulper gibberfish harelip sucker lionfish mako shark yellowbanded perch freshwater hatchetfish wrasse.
                
                Mosshead warbonnet blue-redstripe danio lampfish, pirate perch? Yellowbanded perch, king of herring false trevally yellowfin cutthroat trout Japanese eel Owens pupfish Oriental loach firefish jewelfish. Cepalin sea bream ruffe barracuda; loach orbicular batfish mako shark greeneye; stickleback eeltail catfish Moorish idol. Slender snipe eel, "jewel tetra rohu, menhaden toadfish." Yellowtail barracuda kokanee; southern grayling limia, barracuda California smoothtongue; hammerhead shark horsefish zebra bullhead shark harelip sucker, kokopu. Red salmon sheepshead minnow prowfish white croaker electric catfish European chub North American freshwater catfish pike conger zingel?
                
@@ -66,6 +70,7 @@ Article.create(title: "Article 4",
 
 Article.create(title: "Article 5",
                author: "AAAAAA AAAAAAAAAA",
+               summary: "Li Europan lingues es membres del sam familie.",
                content: "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues.
 
                It va esser tam simplic quam Occidental in fact, it va esser Occidental. A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es. Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles.
@@ -79,6 +84,7 @@ Article.create(title: "Article 5",
 
 Article.create(title: "Article 6",
                author: "BBB BBBBB",
+               summary: "Cosy lovely delightful boulevard signature Ginza. Wardrobe Airbus A380 the best Washlet, conversation Baggu punctual finest Tsutaya.",
                content: "Cosy lovely delightful boulevard signature Ginza. Wardrobe Airbus A380 the best Washlet, conversation Baggu punctual finest Tsutaya. Marylebone cosy Winkreative bespoke quality of life signature. Liveable emerging business class, Nordic Winkreative exquisite Asia-Pacific Helsinki perfect hand-crafted hub handsome. Marylebone Toto remarkable extraordinary Singapore Swiss Beams Sunspel izakaya business class Fast Lane charming destination boutique concierge. Muji essential Zürich perfect remarkable flat white hub impeccable ANA handsome bespoke eclectic K-pop Ginza. Artisanal business class hand-crafted Porter emerging punctual destination efficient Singapore tote bag Gaggenau bespoke Shinkansen discerning.
 
                ANA Gaggenau cosy essential Comme des Garçons. Ginza destination hand-crafted, finest the highest quality sleepy essential punctual bespoke Swiss quality of life premium delightful global intricate. Boutique airport Washlet classic Toto Tsutaya the highest quality liveable sharp Comme des Garçons cutting-edge global charming Gaggenau Porter. Airbus A380 vibrant finest artisanal. Emerging craftsmanship K-pop, international Toto Airbus A380 liveable. Finest lovely signature boutique first-class Comme des Garçons exquisite Swiss Muji premium bulletin. Soft power lovely Lufthansa eclectic uniforms Tsutaya Toto Porter cutting-edge Baggu iconic ANA handsome concierge signature.
