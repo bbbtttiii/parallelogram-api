@@ -10,7 +10,7 @@
 User.create(username: "Bob", email:"bob@bob.bob", password: "password")
 User.create(username: "Joe", email:"joe@joe.joe", password: "password")
 
-Article.create(title: "Article 1",
+Article.create(title: "Vanquish the impossible sed quia non numquam eius modi",
                author: "Haha Haha",
                summary: "Warm-heartedness reinforces our self-confidence giving us not a blind confidence, but a sense of confidence based on reason.",
                content: "Warm-heartedness reinforces our self-confidence giving us not a blind confidence, but a sense of confidence based on reason. When you have that you can act transparently, with nothing to hide! Likewise, if you are honest, the community will trust you. Trust brings friendship, as a result of which you can always feel happy. Whether you look to the right or the left, you will always be able to smile.
@@ -24,7 +24,7 @@ Article.create(title: "Article 1",
                image_url: "https://images.unsplash.com/photo-1579685055445-47a55691dce5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1600"
               )
 
-Article.create(title: "Article 2",
+Article.create(title: "Jean-François Champollion the only home we've ever known",
                author: "Asdf JKL",
                summary: "Intelligent beings the carbon in our apple pies rich in mystery decipherment two ghostly white figures in coveralls and helmets are softly dancing birth.",
                content: "Intelligent beings the carbon in our apple pies rich in mystery decipherment two ghostly white figures in coveralls and helmets are softly dancing birth. Extraordinary claims require extraordinary evidence Neque porro quisquam est star stuff harvesting star light hundreds of thousands sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur?
@@ -44,7 +44,7 @@ Article.create(title: "Article 2",
                image_url: "https://images.unsplash.com/photo-1590907047706-ee9c08cf3189?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1600"
               )
 
-Article.create(title: "Article 3",
+Article.create(title: "Birth Ut enim ad minima veniam galaxies Sea of Tranquility",
                author: "Asdf JKL",
                summary: "Quis nostrum exercitationem ullam corporis suscipit laboriosam a mote of dust suspended in a sunbeam Cambrian explosion Jean-François Champollion globular star cluster Ut enim ad minima veniam?",
                content: "Quis nostrum exercitationem ullam corporis suscipit laboriosam a mote of dust suspended in a sunbeam Cambrian explosion Jean-François Champollion globular star cluster Ut enim ad minima veniam? Euclid not a sunrise but a galaxyrise sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est a billion trillion.
@@ -56,7 +56,7 @@ Article.create(title: "Article 3",
                image_url: "https://images.unsplash.com/photo-1604599886859-7aa09b49f7dc?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
               )
 
-Article.create(title: "Article 4",
+Article.create(title: "Mosshead warbonnet blue-redstripe danio lampfish, pirate perch?",
                author: "Author Name",
                summary: "Greenling yellow jack, goatfish sucker lenok Bengal danio zebra oto beaked sandfish--stickleback pearlfish eelpout flagblenny.",
                content: "Greenling yellow jack, goatfish sucker lenok Bengal danio zebra oto beaked sandfish--stickleback pearlfish eelpout flagblenny. Driftwood catfish grenadier snubnose parasitic eel driftwood catfish zebra danio leaffish Celebes rainbowfish skipping goby swamp-eel common carp. Dragon goby boga California flyingfish moonfish sailfin silverside Pacific saury, clingfish gopher rockfish. Skipjack tuna pricklefish Pacific albacore blackfish Pacific cod discus harelip sucker! Pollock sand knifefish slimehead, barred danio needlefish grideye; armored gurnard boafish Black scalyfin Peter's elephantnose fish, ray.
@@ -76,7 +76,7 @@ Article.create(title: "Article 4",
                image_url: "https://images.unsplash.com/photo-1605101211426-919a4be22569?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
               )
 
-Article.create(title: "Article 5",
+Article.create(title: "Omnicos directe al desirabilite de un nov lingua franca",
                author: "AAAAAA AAAAAAAAAA",
                summary: "Li Europan lingues es membres del sam familie.",
                content: "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues.
@@ -92,8 +92,8 @@ Article.create(title: "Article 5",
                image_url: "https://images.unsplash.com/photo-1603752438777-1d166204a791?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
               )
 
-Article.create(title: "Article 6",
-               author: "BBB BBBBB",
+Article.create(title: "Tsutaya exclusive vibrant conversation",
+               author: "BBB BBBBB CCCCCCCCC",
                summary: "Cosy lovely delightful boulevard signature Ginza. Wardrobe Airbus A380 the best Washlet, conversation Baggu punctual finest Tsutaya.",
                content: "Cosy lovely delightful boulevard signature Ginza. Wardrobe Airbus A380 the best Washlet, conversation Baggu punctual finest Tsutaya. Marylebone cosy Winkreative bespoke quality of life signature. Liveable emerging business class, Nordic Winkreative exquisite Asia-Pacific Helsinki perfect hand-crafted hub handsome. Marylebone Toto remarkable extraordinary Singapore Swiss Beams Sunspel izakaya business class Fast Lane charming destination boutique concierge. Muji essential Zürich perfect remarkable flat white hub impeccable ANA handsome bespoke eclectic K-pop Ginza. Artisanal business class hand-crafted Porter emerging punctual destination efficient Singapore tote bag Gaggenau bespoke Shinkansen discerning.
 
@@ -108,3 +108,48 @@ Article.create(title: "Article 6",
                image_url: "https://images.unsplash.com/photo-1434493907317-a46b5bbe7834?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1600"
               )
                
+Article.create(title: "A sense of confidence based on reason",
+              author: "Hahaaaa Hahaaaa",
+              summary: "Warm-heartedness reinforces our self-confidence giving us not a blind confidence, a sense of confidence based on reason.",
+              content: "Warm-heartedness reinforces our self-confidence giving us not a blind confidence, a sense of confidence based on reason. When you have that you can act transparently, with nothing to hide! Likewise, if you are honest, the community will trust you. Trust brings friendship, as a result of which you can always feel happy. Whether you look to the right or the left, you will always be able to smile.
+
+              The practice of patience guards us against losing our presence of mind. It enables us to remain undisturbed, even when the situation is really difficult. It gives us a certain amount of inner peace, which allows us some self-control, so that we can choose to respond to situations in an appropriate and compassionate manner, rather than being driven by our disturbing emotions.
+              
+              Vanquish the impossible sed quia non numquam eius modi tempora ut labore et dolore magnam aliquam quaerat voluptatem stirred by starlight Flatland venture quasar? Hundreds of thousands rich in heavy atoms rich in mystery intelligent beings consectetur the sky calls to us. A very small stage in a vast cosmic arena vel illum qui dolorem eum fugiat quo voluptas nulla pariatur rings of Uranus Neque porro quisquam est kindling the energy hidden in matter courage of our questions.
+              
+              There is only one important point you must keep in your mind and let it be your guide. No matter what people call you, you are just who you are. Keep to this truth. You must ask yourself how is it you want to live your life. We live and we die, this is the truth that we can only face alone. No one can help us, not even the Buddha. So consider carefully, what prevents you from living the way you want to live your life?",
+              tag: "technology",
+              image_url: "https://images.unsplash.com/photo-1603737210453-345ab73e523e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
+              )
+
+Article.create(title: "Are creatures of the cosmos shores of the cosmic ocean?",
+                author: "Fjafsl Sjglwgls Sfss",
+                summary: "Quis nostrum exercitationem ullam corporis suscipit laboriosam of dust suspended in a sunbeam Cambrian explosion Jean-François Champollion globular star cluster Ut enim ad minima veniam?",
+                content: "Quis nostrum exercitationem ullam corporis suscipit laboriosam of dust suspended in a sunbeam Cambrian explosion Jean-François Champollion globular star cluster Ut enim ad minima veniam? Euclid not a sunrise but a galaxyrise sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est a billion trillion.
+ 
+                Birth Ut enim ad minima veniam galaxies Sea of Tranquility hearts of the stars hundreds of thousands? Are creatures of the cosmos shores of the cosmic ocean across the centuries something incredible is waiting to be known citizens of distant epochs dream of the mind's eye? Inconspicuous motes of rock and gas Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium adipisci velit another world citizens of distant epochs another world.
+ 
+                How far away the carbon in our apple pies two ghostly white figures in  and helmets are softly dancing from which we spring qui dolorem ipsum quia dolor sit amet take root and flourish? Globular star cluster white dwarf white dwarf Jean-François Champollion not a sunrise but a galaxyrise hydrogen atoms. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur concept of the number one sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem a still more glorious dawn awaits a still more glorious dawn awaits vanquish the impossible and billions upon billions upon billions upon billions upon billions upon billions upon billions.",
+                tag: "psychology",
+                image_url: "https://images.unsplash.com/photo-1605445369552-5fffdd8be57d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
+               )
+
+Article.create(title: "North Pacific daggertooth ray large-eye bream sergeant major dory",
+                author: "The Author",
+                summary: "Yellowbanded perch, king of herring false trevally yellowfin cutthroat.",
+                content: "Greenling yellow jack, goatfish sucker lenok Bengal danio zebra oto beaked sandfish--stickleback pearlfish eelpout flagblenny. Driftwood catfish grenadier snubnose parasitic eel driftwood catfish zebra danio leaffish Celebes rainbowfish skipping goby swamp-eel common carp. Dragon goby boga California flyingfish moonfish sailfin silverside Pacific saury, clingfish gopher rockfish. Skipjack tuna pricklefish Pacific albacore blackfish Pacific cod discus harelip sucker! Pollock sand knifefish slimehead, barred danio needlefish grideye; armored gurnard boafish Black scalyfin Peter's elephantnose fish, ray.
+ 
+                Banded killifish whale catfish, yellow-and-black triplefin Australian lungfish, tubeshoulder Ragfish ghost fish cutlassfish kelpfish sturgeon emperor bream frogmouth catfish. Porbeagle shark cuckoo wrasse ribbon sawtail fish sand tiger grideye hog sucker pompano dolphinfish summer flounder; round whitefish. Minnow Pacific saury, orbicular velvetfish brown trout bigeye squaretail dogteeth tetra.
+                
+                Buri pike conger whitetip reef shark lemon shark huchen long-whiskered catfish North Pacific daggertooth ray large-eye bream sergeant major dory sea devil albacore kahawai mojarra grunion louvar. Torrent fish, unicorn fish barb kissing gourami flyingfish Atlantic cod black bass. Ladyfish dartfish green swordtail bala shark Ratfish hoki crevice kelpfish mud cat golden loach dogfish scabbard fish arapaima? Black sea bass Shingle Fish electric ray, tubeblenny, electric catfish remora, earthworm eel, kokanee oceanic whitetip shark waryfish European minnow. Panga, Black prickleback gray mullet lemon shark, garden eel megamouth shark sleeper shark ribbon eel yellowhead jawfish northern pike wolffish Siamese fighting fish. Manta Ray cardinalfish loach minnow armored searobin driftwood catfish? Sand knifefish threadfin.
+                
+                Common tunny plownose chimaera; cuckoo wrasse spearfish sarcastic fringehead sailbearer dusky grouper; walleye Pacific herring blue eye. Mozambique tilapia cherry salmon searobin tenuis, manefish angler tope Oriental loach dogfish zebra lionfish, scup oceanic whitetip shark spiderfish. Sand lance largemouth bass eelblenny barbeled dragonfish stonefish sand knifefish cutthroat eel; Black scalyfin, wahoo Black sea bass snailfish starry flounder yellowtail barracuda. Porgy garibaldi orangespine unicorn fish, dogfish shark tenuis Reedfish pike conger anglerfish, Sacramento splittail hillstream loach.
+                
+                Red snapper weeverfish convict blenny walu electric knifefish glass knifefish speckled trout, pilot fish, coelacanth gombessa, ladyfish. Canary rockfish whiptail gulper gibberfish harelip sucker lionfish mako shark yellowbanded perch freshwater hatchetfish wrasse.
+                
+                Mosshead warbonnet blue-redstripe danio lampfish, pirate perch? Yellowbanded perch, king of herring false trevally yellowfin cutthroat trout Japanese eel Owens pupfish Oriental loach firefish jewelfish. Cepalin sea bream ruffe barracuda; loach orbicular batfish mako shark greeneye; stickleback eeltail catfish Moorish idol. Slender snipe eel, jewel tetra rohu, menhaden toadfish. Yellowtail barracuda kokanee; southern grayling limia, barracuda California smoothtongue; hammerhead shark horsefish zebra bullhead shark harelip sucker, kokopu. Red salmon sheepshead minnow prowfish white croaker electric catfish European chub North American freshwater catfish pike conger zingel?
+                
+                Tenpounder. Ocean sunfish walleye frogfish canary rockfish loach salamanderfish discus Moses sole loach goby goblin shark sandbar shark Black angelfish freshwater herring manefish? Blue catfish sea snail roundhead dab bream snailfish daggertooth pike conger, sand goby huchen gizzard shad whalefish Bigscale pomfret southern grayling. Spiny basslet; tiger barb largenose fish shell-ear; airbreathing catfish ghost flathead olive flounder anchovy monkfish glass knifefish cusk-eel southern flounder. Eel cod gouramie peladillo white shark. Guitarfish, warmouth ghost knifefish pearleye haddock redmouth whalefish snoek yellowmargin triggerfish; loach catfish. Pilot fish ghost knifefish; blue danio. Sand lance Black pickerel rivuline, Celebes rainbowfish sargassum fish eucla cod lionfish swordtail monkfish smooth dogfish. Black angelfish capelin ghost flathead codling bleak mudfish, gar poacher crevice kelpfish cusk-eel southern hake porgy shrimpfish European minnow. Lizardfish torpedo ribbonbearer lefteye flounder orbicular batfish hardhead catfish blue eye velvet-belly shark dory hatchetfish carpsucker yellowbelly tail catfish shovelnose sturgeon. Gopher rockfish bighead carp banjo catfish, deepwater stingray Long-finned sand diver upside-down catfish wels catfish Australasian salmon yellowtail clownfish nurse shark mooneye, dwarf gourami ray bluefish, Asian carps.",
+                tag: "nature",
+                image_url: "https://images.unsplash.com/photo-1604999286549-9775ca576cd3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
+               )
