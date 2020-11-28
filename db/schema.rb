@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_11_25_172240) do
+ActiveRecord::Schema.define(version: 2020_11_28_223017) do
 
   create_table "articles", force: :cascade do |t|
     t.string "title"
@@ -21,6 +21,7 @@ ActiveRecord::Schema.define(version: 2020_11_25_172240) do
     t.string "author"
     t.integer "favorite_count"
     t.string "summary"
+    t.string "image_url"
   end
 
   create_table "favorites", force: :cascade do |t|
