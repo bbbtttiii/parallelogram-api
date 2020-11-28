@@ -20,7 +20,9 @@ Article.create(title: "Article 1",
                Vanquish the impossible sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem stirred by starlight Flatland venture quasar? Hundreds of thousands rich in heavy atoms rich in mystery intelligent beings consectetur the sky calls to us. A very small stage in a vast cosmic arena vel illum qui dolorem eum fugiat quo voluptas nulla pariatur rings of Uranus Neque porro quisquam est kindling the energy hidden in matter courage of our questions.
                
                There is only one important point you must keep in your mind and let it be your guide. No matter what people call you, you are just who you are. Keep to this truth. You must ask yourself how is it you want to live your life. We live and we die, this is the truth that we can only face alone. No one can help us, not even the Buddha. So consider carefully, what prevents you from living the way you want to live your life?",
-               tag: "philosophy")
+               tag: "philosophy",
+               image_url: "https://images.unsplash.com/photo-1579685055445-47a55691dce5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1600"
+              )
 
 Article.create(title: "Article 2",
                author: "Asdf JKL",
@@ -38,7 +40,9 @@ Article.create(title: "Article 2",
                Vanquish the impossible sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem stirred by starlight Flatland venture quasar? Hundreds of thousands rich in heavy atoms rich in mystery intelligent beings consectetur the sky calls to us. A very small stage in a vast cosmic arena vel illum qui dolorem eum fugiat quo voluptas nulla pariatur rings of Uranus Neque porro quisquam est kindling the energy hidden in matter courage of our questions.
                
                Courage of our questions emerged into consciousness Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit across the centuries culture a mote of dust suspended in a sunbeam. Globular star cluster circumnavigated cosmic fugue vastness is bearable only through love circumnavigated invent the universe. Descended from astronomers not a sunrise but a galaxyrise circumnavigated globular star cluster from which we spring not a sunrise but a galaxyrise and billions upon billions upon billions upon billions upon billions upon billions upon billions.",
-               tag: "cosmology")
+               tag: "cosmology",
+               image_url: "https://images.unsplash.com/photo-1590907047706-ee9c08cf3189?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1600"
+              )
 
 Article.create(title: "Article 3",
                author: "Asdf JKL",
@@ -48,7 +52,9 @@ Article.create(title: "Article 3",
                Birth Ut enim ad minima veniam galaxies Sea of Tranquility hearts of the stars hundreds of thousands? Are creatures of the cosmos shores of the cosmic ocean across the centuries something incredible is waiting to be known citizens of distant epochs dream of the mind's eye? Inconspicuous motes of rock and gas Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium adipisci velit another world citizens of distant epochs another world.
 
                How far away the carbon in our apple pies two ghostly white figures in coveralls and helmets are softly dancing from which we spring qui dolorem ipsum quia dolor sit amet take root and flourish? Globular star cluster white dwarf white dwarf Jean-François Champollion not a sunrise but a galaxyrise hydrogen atoms. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur concept of the number one sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem a still more glorious dawn awaits a still more glorious dawn awaits vanquish the impossible and billions upon billions upon billions upon billions upon billions upon billions upon billions.",
-               tag: "cosmology")
+               tag: "cosmology",
+               image_url: "https://images.unsplash.com/photo-1604599886859-7aa09b49f7dc?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
+              )
 
 Article.create(title: "Article 4",
                author: "Author Name",
@@ -66,7 +72,9 @@ Article.create(title: "Article 4",
                Mosshead warbonnet blue-redstripe danio lampfish, pirate perch? Yellowbanded perch, king of herring false trevally yellowfin cutthroat trout Japanese eel Owens pupfish Oriental loach firefish jewelfish. Cepalin sea bream ruffe barracuda; loach orbicular batfish mako shark greeneye; stickleback eeltail catfish Moorish idol. Slender snipe eel, jewel tetra rohu, menhaden toadfish. Yellowtail barracuda kokanee; southern grayling limia, barracuda California smoothtongue; hammerhead shark horsefish zebra bullhead shark harelip sucker, kokopu. Red salmon sheepshead minnow prowfish white croaker electric catfish European chub North American freshwater catfish pike conger zingel?
                
                Tenpounder. Ocean sunfish walleye frogfish canary rockfish loach salamanderfish discus Moses sole loach goby goblin shark sandbar shark Black angelfish freshwater herring manefish? Blue catfish sea snail roundhead dab bream snailfish daggertooth pike conger, sand goby huchen gizzard shad whalefish Bigscale pomfret southern grayling. Spiny basslet; tiger barb largenose fish shell-ear; airbreathing catfish ghost flathead olive flounder anchovy monkfish glass knifefish cusk-eel southern flounder. Eel cod gouramie peladillo white shark. Guitarfish, warmouth ghost knifefish pearleye haddock redmouth whalefish snoek yellowmargin triggerfish; loach catfish. Pilot fish ghost knifefish; blue danio. Sand lance Black pickerel rivuline, Celebes rainbowfish sargassum fish eucla cod lionfish swordtail monkfish smooth dogfish. Black angelfish capelin ghost flathead codling bleak mudfish, gar poacher crevice kelpfish cusk-eel southern hake porgy shrimpfish European minnow. Lizardfish torpedo ribbonbearer lefteye flounder orbicular batfish hardhead catfish blue eye velvet-belly shark dory hatchetfish carpsucker yellowbelly tail catfish shovelnose sturgeon. Gopher rockfish bighead carp banjo catfish, deepwater stingray Long-finned sand diver upside-down catfish wels catfish Australasian salmon yellowtail clownfish nurse shark mooneye, dwarf gourami ray bluefish, Asian carps.",
-               tag: "biology")
+               tag: "biology",
+               image_url: "https://images.unsplash.com/photo-1605101211426-919a4be22569?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
+              )
 
 Article.create(title: "Article 5",
                author: "AAAAAA AAAAAAAAAA",
@@ -80,7 +88,9 @@ Article.create(title: "Article 5",
                Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues. It va esser tam simplic quam Occidental in fact, it va esser Occidental. A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es. Li Europan lingues es membres del sam familie.
                
                Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues. It va esser tam simplic quam Occidental in fact, it va esser Occidental. A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es. Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma",
-               tag: "culture")
+               tag: "culture",
+               image_url: "https://images.unsplash.com/photo-1603752438777-1d166204a791?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
+              )
 
 Article.create(title: "Article 6",
                author: "BBB BBBBB",
@@ -94,4 +104,7 @@ Article.create(title: "Article 6",
                Liveable artisanal intricate, cutting-edge Lufthansa the best quality of life impeccable pintxos craftsmanship hub. Marylebone elegant discerning Ettinger. Fast Lane Baggu intricate espresso wardrobe. Tsutaya the highest quality carefully curated Airbus A380 Boeing 787. International global sharp the highest quality extraordinary Airbus A380 izakaya Swiss elegant premium punctual.
                
                Izakaya essential soft power, bespoke concierge Boeing 787 global emerging Scandinavian smart uniforms the highest quality Singapore. Essential Melbourne sharp Swiss liveable. Ginza bespoke eclectic, exquisite boutique discerning soft power exclusive Porter hub. Hand-crafted destination Asia-Pacific Boeing 787 wardrobe punctual first-class Lufthansa boutique signature charming Melbourne soft power. Exclusive Baggu exquisite, the highest quality Airbus A380 joy concierge handsome. Classic business class the highest quality cutting-edge international Airbus A380 wardrobe Sunspel tote bag Ginza Marylebone vibrant Helsinki first-class.",
-               tag: "technology")
+               tag: "technology",
+               image_url: "https://images.unsplash.com/photo-1434493907317-a46b5bbe7834?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1600"
+              )
+               
