@@ -95,4 +95,3 @@ Article.create(title: "Article 6",
                
                Izakaya essential soft power, bespoke concierge Boeing 787 global emerging Scandinavian smart uniforms the highest quality Singapore. Essential Melbourne sharp Swiss liveable. Ginza bespoke eclectic, exquisite boutique discerning soft power exclusive Porter hub. Hand-crafted destination Asia-Pacific Boeing 787 wardrobe punctual first-class Lufthansa boutique signature charming Melbourne soft power. Exclusive Baggu exquisite, the highest quality Airbus A380 joy concierge handsome. Classic business class the highest quality cutting-edge international Airbus A380 wardrobe Sunspel tote bag Ginza Marylebone vibrant Helsinki first-class.",
                tag: "technology")
-
