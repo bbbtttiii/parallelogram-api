@@ -10,7 +10,7 @@
 User.create(username: "Bob", email:"bob@bob.bob", password: "password")
 User.create(username: "Joe", email:"joe@joe.joe", password: "password")
 
-Article.create(title: "Vanquish the impossible sed quia non numquam eius modi",
+Article.create(title: "Vanquish the Impossible Sed Quia Non Numquam Eius Modi",
                author: "Haha Haha",
                summary: "Warm-heartedness reinforces our self-confidence giving us not a blind confidence, but a sense of confidence based on reason.",
                content: "Warm-heartedness reinforces our self-confidence giving us not a blind confidence, but a sense of confidence based on reason. When you have that you can act transparently, with nothing to hide! Likewise, if you are honest, the community will trust you. Trust brings friendship, as a result of which you can always feel happy. Whether you look to the right or the left, you will always be able to smile.
@@ -24,7 +24,7 @@ Article.create(title: "Vanquish the impossible sed quia non numquam eius modi",
                image_url: "https://images.unsplash.com/photo-1579685055445-47a55691dce5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1600"
               )
 
-Article.create(title: "Jean-François Champollion the only home we've ever known",
+Article.create(title: "Jean-François Champollion the Only Home We've Ever Known",
                author: "Asdf JKL",
                summary: "Intelligent beings the carbon in our apple pies rich in mystery decipherment two ghostly white figures in coveralls and helmets are softly dancing birth.",
                content: "Intelligent beings the carbon in our apple pies rich in mystery decipherment two ghostly white figures in coveralls and helmets are softly dancing birth. Extraordinary claims require extraordinary evidence Neque porro quisquam est star stuff harvesting star light hundreds of thousands sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur?
@@ -44,7 +44,7 @@ Article.create(title: "Jean-François Champollion the only home we've ever known
                image_url: "https://images.unsplash.com/photo-1590907047706-ee9c08cf3189?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1600"
               )
 
-Article.create(title: "Birth Ut enim ad minima veniam galaxies Sea of Tranquility",
+Article.create(title: "Birth Ut Enim ad Minima Veniam Galaxies Sea of Tranquility",
                author: "Asdf JKL",
                summary: "Quis nostrum exercitationem ullam corporis suscipit laboriosam a mote of dust suspended in a sunbeam Cambrian explosion Jean-François Champollion globular star cluster Ut enim ad minima veniam?",
                content: "Quis nostrum exercitationem ullam corporis suscipit laboriosam a mote of dust suspended in a sunbeam Cambrian explosion Jean-François Champollion globular star cluster Ut enim ad minima veniam? Euclid not a sunrise but a galaxyrise sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est a billion trillion.
@@ -56,7 +56,7 @@ Article.create(title: "Birth Ut enim ad minima veniam galaxies Sea of Tranquilit
                image_url: "https://images.unsplash.com/photo-1604599886859-7aa09b49f7dc?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
               )
 
-Article.create(title: "Mosshead warbonnet blue-redstripe danio lampfish, pirate perch?",
+Article.create(title: "Mosshead Warbonnet Blue-Redstripe Danio Lampfish, Pirate Perch?",
                author: "Author Name",
                summary: "Greenling yellow jack, goatfish sucker lenok Bengal danio zebra oto beaked sandfish--stickleback pearlfish eelpout flagblenny.",
                content: "Greenling yellow jack, goatfish sucker lenok Bengal danio zebra oto beaked sandfish--stickleback pearlfish eelpout flagblenny. Driftwood catfish grenadier snubnose parasitic eel driftwood catfish zebra danio leaffish Celebes rainbowfish skipping goby swamp-eel common carp. Dragon goby boga California flyingfish moonfish sailfin silverside Pacific saury, clingfish gopher rockfish. Skipjack tuna pricklefish Pacific albacore blackfish Pacific cod discus harelip sucker! Pollock sand knifefish slimehead, barred danio needlefish grideye; armored gurnard boafish Black scalyfin Peter's elephantnose fish, ray.
@@ -76,7 +76,7 @@ Article.create(title: "Mosshead warbonnet blue-redstripe danio lampfish, pirate 
                image_url: "https://images.unsplash.com/photo-1605101211426-919a4be22569?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
               )
 
-Article.create(title: "Omnicos directe al desirabilite de un nov lingua franca",
+Article.create(title: "Omnicos Directe al Desirabilite de Un Nov Lingua Franca",
                author: "AAAAAA AAAAAAAAAA",
                summary: "Li Europan lingues es membres del sam familie.",
                content: "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues.
@@ -92,7 +92,7 @@ Article.create(title: "Omnicos directe al desirabilite de un nov lingua franca",
                image_url: "https://images.unsplash.com/photo-1603752438777-1d166204a791?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
               )
 
-Article.create(title: "Tsutaya exclusive vibrant conversation",
+Article.create(title: "Tsutaya Exclusive Vibrant Conversation",
                author: "BBB BBBBB CCCCCCCCC",
                summary: "Cosy lovely delightful boulevard signature Ginza. Wardrobe Airbus A380 the best Washlet, conversation Baggu punctual finest Tsutaya.",
                content: "Cosy lovely delightful boulevard signature Ginza. Wardrobe Airbus A380 the best Washlet, conversation Baggu punctual finest Tsutaya. Marylebone cosy Winkreative bespoke quality of life signature. Liveable emerging business class, Nordic Winkreative exquisite Asia-Pacific Helsinki perfect hand-crafted hub handsome. Marylebone Toto remarkable extraordinary Singapore Swiss Beams Sunspel izakaya business class Fast Lane charming destination boutique concierge. Muji essential Zürich perfect remarkable flat white hub impeccable ANA handsome bespoke eclectic K-pop Ginza. Artisanal business class hand-crafted Porter emerging punctual destination efficient Singapore tote bag Gaggenau bespoke Shinkansen discerning.
@@ -108,7 +108,7 @@ Article.create(title: "Tsutaya exclusive vibrant conversation",
                image_url: "https://images.unsplash.com/photo-1434493907317-a46b5bbe7834?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1600"
               )
                
-Article.create(title: "A sense of confidence based on reason",
+Article.create(title: "A Sense of Confidence Based on Reason",
               author: "Hahaaaa Hahaaaa",
               summary: "Warm-heartedness reinforces our self-confidence giving us not a blind confidence, a sense of confidence based on reason.",
               content: "Warm-heartedness reinforces our self-confidence giving us not a blind confidence, a sense of confidence based on reason. When you have that you can act transparently, with nothing to hide! Likewise, if you are honest, the community will trust you. Trust brings friendship, as a result of which you can always feel happy. Whether you look to the right or the left, you will always be able to smile.
@@ -122,7 +122,7 @@ Article.create(title: "A sense of confidence based on reason",
               image_url: "https://images.unsplash.com/photo-1603737210453-345ab73e523e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
               )
 
-Article.create(title: "Are creatures of the cosmos shores of the cosmic ocean?",
+Article.create(title: "Are Creatures of the Cosmos Shores of the Cosmic Ocean?",
                 author: "Fjafsl Sjglwgls Sfss",
                 summary: "Quis nostrum exercitationem ullam corporis suscipit laboriosam of dust suspended in a sunbeam Cambrian explosion Jean-François Champollion globular star cluster Ut enim ad minima veniam?",
                 content: "Quis nostrum exercitationem ullam corporis suscipit laboriosam of dust suspended in a sunbeam Cambrian explosion Jean-François Champollion globular star cluster Ut enim ad minima veniam? Euclid not a sunrise but a galaxyrise sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est a billion trillion.
@@ -134,7 +134,7 @@ Article.create(title: "Are creatures of the cosmos shores of the cosmic ocean?",
                 image_url: "https://images.unsplash.com/photo-1605445369552-5fffdd8be57d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
                )
 
-Article.create(title: "North Pacific daggertooth ray large-eye bream sergeant major dory",
+Article.create(title: "North Pacific Daggertooth Ray Large-Eye Bream Sergeant Major Dory",
                 author: "The Author",
                 summary: "Yellowbanded perch, king of herring false trevally yellowfin cutthroat.",
                 content: "Greenling yellow jack, goatfish sucker lenok Bengal danio zebra oto beaked sandfish--stickleback pearlfish eelpout flagblenny. Driftwood catfish grenadier snubnose parasitic eel driftwood catfish zebra danio leaffish Celebes rainbowfish skipping goby swamp-eel common carp. Dragon goby boga California flyingfish moonfish sailfin silverside Pacific saury, clingfish gopher rockfish. Skipjack tuna pricklefish Pacific albacore blackfish Pacific cod discus harelip sucker! Pollock sand knifefish slimehead, barred danio needlefish grideye; armored gurnard boafish Black scalyfin Peter's elephantnose fish, ray.
