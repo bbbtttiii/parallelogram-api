@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   get "/api/v1/get_articles", to: "api/v1/articles#index"
-  get "api/v1/get_articles/:id", to: "api/v1/articles#show"
+  get "/api/v1/get_articles/:id", to: "api/v1/articles#show"
   post "/api/v1/login", to: "api/v1/sessions#create"
   post "/api/v1/signup", to: "api/v1/users#create"
   delete "/api/v1/logout", to: "api/v1/sessions#destroy"
