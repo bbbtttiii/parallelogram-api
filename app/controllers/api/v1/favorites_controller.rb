@@ -4,14 +4,13 @@ class Api::V1::FavoritesController < ApplicationController
   # GET /favorites
   def index
     @favorites = Favorite.all
-
-    render json: @favorites
+    render json: FavoriteSerializer.new(@favorites)
   end
 
   # GET /favorites/1
-  def show
-    render json: @favorite
-  end
+  # def show
+  #   render json: @favorite
+  # end
 
   # POST /favorites
   def create
