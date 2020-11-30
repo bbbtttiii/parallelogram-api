@@ -11,7 +11,7 @@ User.create(username: "Bob", email:"bob@bob.bob", password: "password")
 User.create(username: "Joe", email:"joe@joe.joe", password: "password")
 
 Article.create(title: "Vanquish the Impossible Sed Quia Non Numquam Eius Modi",
-               author: "Haha Haha",
+               author: "Yu Jie Hsia",
                summary: "Warm-heartedness reinforces our self-confidence giving us not a blind confidence, but a sense of confidence based on reason.",
                content:
                "
@@ -27,7 +27,7 @@ Article.create(title: "Vanquish the Impossible Sed Quia Non Numquam Eius Modi",
               )
 
 Article.create(title: "Jean-François Champollion the Only Home We've Ever Known",
-               author: "Asdf JKL",
+               author: "Orrin Houtepen",
                summary: "Intelligent beings the carbon in our apple pies rich in mystery decipherment two ghostly white figures in coveralls and helmets are softly dancing birth.",
                content:
                "
@@ -49,7 +49,7 @@ Article.create(title: "Jean-François Champollion the Only Home We've Ever Known
               )
 
 Article.create(title: "Birth Ut Enim ad Minima Veniam Galaxies Sea of Tranquility",
-               author: "Asdf JKL",
+               author: "Maxwell Schweizer",
                summary: "Quis nostrum exercitationem ullam corporis suscipit laboriosam a mote of dust suspended in a sunbeam Cambrian explosion Jean-François Champollion globular star cluster Ut enim ad minima veniam?",
                content:
                "
@@ -63,7 +63,7 @@ Article.create(title: "Birth Ut Enim ad Minima Veniam Galaxies Sea of Tranquilit
               )
 
 Article.create(title: "Mosshead Warbonnet Blue-Redstripe Danio Lampfish, Pirate Perch?",
-               author: "Author Name",
+               author: "Noah Wettenhall",
                summary: "Greenling yellow jack, goatfish sucker lenok Bengal danio zebra oto beaked sandfish--stickleback pearlfish eelpout flagblenny.",
                content:
                "
@@ -85,7 +85,7 @@ Article.create(title: "Mosshead Warbonnet Blue-Redstripe Danio Lampfish, Pirate 
               )
 
 Article.create(title: "Omnicos Directe al Desirabilite de Un Nov Lingua Franca",
-               author: "AAAAAA AAAAAAAAAA",
+               author: "Anna Partridge",
                summary: "Li Europan lingues es membres del sam familie.",
                content:
                "
@@ -103,7 +103,7 @@ Article.create(title: "Omnicos Directe al Desirabilite de Un Nov Lingua Franca",
               )
 
 Article.create(title: "Tsutaya Exclusive Vibrant Conversation",
-               author: "BBB BBBBB CCCCCCCCC",
+               author: "Päivä Salmi",
                summary: "Cosy lovely delightful boulevard signature Ginza. Wardrobe Airbus A380 the best Washlet, conversation Baggu punctual finest Tsutaya.",
                content:
                "
@@ -121,7 +121,7 @@ Article.create(title: "Tsutaya Exclusive Vibrant Conversation",
               )
                
 Article.create(title: "A Sense of Confidence Based on Reason",
-              author: "Hahaaaa Hahaaaa",
+              author: "Sara Natvik",
               summary: "Warm-heartedness reinforces our self-confidence giving us not a blind confidence, a sense of confidence based on reason.",
               content:
               "
@@ -137,7 +137,7 @@ Article.create(title: "A Sense of Confidence Based on Reason",
               )
 
 Article.create(title: "Are Creatures of the Cosmos Shores of the Cosmic Ocean?",
-                author: "Fjafsl Sjglwgls Sfss",
+                author: "Kai Araujo Barros",
                 summary: "Quis nostrum exercitationem ullam corporis suscipit laboriosam of dust suspended in a sunbeam Cambrian explosion Jean-François Champollion globular star cluster Ut enim ad minima veniam?",
                 content:
                 "
@@ -151,7 +151,7 @@ Article.create(title: "Are Creatures of the Cosmos Shores of the Cosmic Ocean?",
                )
 
 Article.create(title: "North Pacific Daggertooth Ray Large-Eye Bream Sergeant Major Dory",
-                author: "The Author",
+                author: "Murray E. Ver",
                 summary: "Yellowbanded perch, king of herring false trevally yellowfin cutthroat.",
                 content:
                 "
