@@ -11,6 +11,9 @@ class Api::V1::ArticlesController < ApplicationController
   def show
     @article = Article.find(params[:id])
     render json: ArticleSerializer.new(@article)
+    @favorite_article_exists = Favorite.where(article: @article, user: current_user) == []
+      ? false
+      : true
   end
 
   private

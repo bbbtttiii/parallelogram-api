@@ -10,7 +10,7 @@ Rails.application.routes.draw do
     namespace :v1 do
       resources :users
       resources :articles
-      resources :favorites
+      resources :favorite_articles
     end
   end
 end
