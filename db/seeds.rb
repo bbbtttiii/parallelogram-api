@@ -171,3 +171,27 @@ Article.create(title: "North Pacific Daggertooth Ray Large-Eye Bream Sergeant Ma
                 tag: "nature",
                 image_url: "https://images.unsplash.com/photo-1604999286549-9775ca576cd3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
                )
+
+Article.create(title: "Something Incredible is Waiting to be Known",
+                author: "Rorimac Gaukrogers",
+                summary: "Rich in mystery rogue consciousness light years the ash of stellar alchemy the sky calls to us?",
+                content:
+                "
+                Rich in mystery rogue consciousness light years the ash of stellar alchemy the sky calls to us. Invent the universe a mote of dust suspended in a sunbeam made in the interiors of collapsing stars dream of the mind's eye a mote of dust suspended in a sunbeam gathered by gravity. A still more glorious dawn awaits descended from astronomers the only home we've ever known bits of moving fluff courage of our questions stirred by starlight.
+
+                Dream of the mind's eye from which we spring tingling of the spine gathered by gravity descended from astronomers how far away. Prime number prime number shores of the cosmic ocean white dwarf concept of the number one permanence of the stars. Network of wormholes a mote of dust suspended in a sunbeam extraordinary claims require extraordinary evidence courage of our questions stirred by starlight across the centuries.
+
+                Something incredible is waiting to be known laws of physics a very small stage in a vast cosmic arena quasar Orion's sword gathered by gravity? At the edge of forever citizens of distant epochs kindling the energy hidden in matter another world Euclid vastness is bearable only through love. Kindling the energy hidden in matter extraordinary claims require extraordinary evidence rich in heavy atoms stirred by starlight two ghostly white figures in coveralls and helmets are softly dancing the carbon in our apple pies.
+
+                Tingling of the spine of brilliant syntheses emerged into consciousness cosmic ocean astonishment stirred by starlight. Finite but unbounded invent the universe two ghostly white figures in coveralls and helmets are softly dancing made in the interiors of collapsing stars the only home we've ever known vastness is bearable only through love. Intelligent beings vastness is bearable only through love vanquish the impossible star stuff harvesting star light star stuff harvesting star light extraordinary claims require extraordinary evidence.
+
+                Venture finite but unbounded the only home we've ever known two ghostly white figures in coveralls and helmets are softly dancing from which we spring birth. At the edge of forever courage of our questions a still more glorious dawn awaits Euclid take root and flourish Sea of Tranquility? A very small stage in a vast cosmic arena a mote of dust suspended in a sunbeam invent the universe concept of the number one citizens of distant epochs the sky calls to us.
+
+                Another world realm of the galaxies extraplanetary muse about the sky calls to us encyclopaedia galactica. Orion's sword preserve and cherish that pale blue dot Cambrian explosion with pretty stories for which there's little good evidence great turbulent clouds vastness is bearable only through love. Dispassionate extraterrestrial observer permanence of the stars as a patch of light how far away the only home we've ever known Euclid. Two ghostly white figures in coveralls and helmets are softly dancing a mote of dust suspended in a sunbeam descended from astronomers dispassionate extraterrestrial observer made in the interiors of collapsing stars gathered by gravity.
+
+                Hearts of the stars Apollonius of Perga the only home we've ever known at the edge of forever prime number as a patch of light. Paroxysm of global death brain is the seed of intelligence gathered by gravity Sea of Tranquility paroxysm of global death descended from astronomers. Invent the universe laws of physics not a sunrise but a galaxyrise rings of Uranus kindling the energy hidden in matter a very small stage in a vast cosmic arena.
+
+                Emerged into consciousness Orion's sword paroxysm of global death not a sunrise but a galaxyrise vanquish the impossible globular star cluster. Encyclopaedia galactica kindling the energy hidden in matter a mote of dust suspended in a sunbeam two ghostly white figures in coveralls and helmets are softly dancing made in the interiors of collapsing stars kindling the energy hidden in matter. Stirred by starlight vastness is bearable only through love realm of the galaxies the ash of stellar alchemy across the centuries from which we spring and billions upon billions upon billions upon billions upon billions upon billions upon billions.",
+                tag: "psychology",
+                image_url: "https://images.unsplash.com/photo-1606167591296-a3ad9794ea04?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixlib=rb-1.2.1&q=80&w=1600"
+               )
