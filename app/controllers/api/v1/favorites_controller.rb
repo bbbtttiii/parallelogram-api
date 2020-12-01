@@ -17,7 +17,7 @@ class Api::V1::FavoritesController < ApplicationController
   def create
     @favorite = Favorite.new(favorite_params)
     if @favorite.save
-      favorite[:article_id] = @article.id
+      # favorite[:article_id] = @article.id
       render json: FavoriteSerializer.new(@favorite), status: :created
     else
       render json: @favorite.errors.full_messages.to_sentence, status: :unprocessable_entity
