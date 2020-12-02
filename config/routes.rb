@@ -5,13 +5,11 @@ Rails.application.routes.draw do
   post "/api/v1/signup", to: "api/v1/users#create"
   delete "/api/v1/logout", to: "api/v1/sessions#destroy"
   get "/api/v1/get_current_user", to: "api/v1/sessions#get_current_user"
-  get "api/v1/favorites", to: "api/v1/favorites#index"
-  post "api/v1/add_to_favorites", to: "api/v1/vaforites#create"
   namespace :api do
     namespace :v1 do
-      resources :users
-      resources :articles
-      resources :favorites
+      resources :users, only: [:create]
+      resources :articles, only: [:index, :show]
+      resources :favorites, only: [:create]
     end
   end
 end
