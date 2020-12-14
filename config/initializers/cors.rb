@@ -7,7 +7,7 @@
 
 Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
-    origins 'http://localhost:3000', 'https://www.beniburg.com/parallelogram/*'
+    origins 'http://localhost:3000', 'https://bbbtttiii.github.io/parallelogram/', 'https://www.beniburg.com/parallelogram'
 
     resource '*',
       headers: :any,
@@ -16,4 +16,4 @@ Rails.application.config.middleware.insert_before 0, Rack::Cors do
   end
 end
 
-# Rails.application.config.action_controller.forgery_protection_origin_check = false
+# Rails.application.config.action_controller.forgery_protection_origin_check = false 
