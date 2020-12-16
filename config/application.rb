@@ -37,5 +37,10 @@ module Parallelogram
     config.api_only = true
     config.middleware.use ActionDispatch::Cookies
     config.middleware.use ActionDispatch::Session::CookieStore, key: '_cookie_name'
+
+    config.action_dispatch.default_headers = {
+      'Access-Control-Allow-Origin' => 'https://parallelogram.herokuapp.com',
+      'Access-Control-Request-Method' => %w{GET POST OPTIONS}.join(",")
+    }
   end
 end
