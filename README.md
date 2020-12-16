@@ -1,24 +1,22 @@
-# README
+# Parallelogram
+A platform made for curated, multi-disciplinary articles from topics such as natural science, technology, psychology, philosophy, and more. Built with a React/Redux frontend and Rails API backend.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Getting Started
 
-Things you may want to cover:
+- Clone
+- Run `rake db:migrate`
+- Run `rake db:seed`
+- Start the server with `rails s`
+- Set up the [frontend](https://github.com/bbbtttiii/parallelogram-frontend)
 
-* Ruby version
+## Contributing
 
-* System dependencies
+Feel free to report a bug or create a pull request if you have any ideas for expansion or improvement!
 
-* Configuration
+## Authors
 
-* Database creation
+- Ben Iburg (https://github.com/bbbtttiii)
 
-* Database initialization
+## License
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+MIT Open Source (https://opensource.org/licenses/MIT)
