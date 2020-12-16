@@ -40,7 +40,8 @@ module Parallelogram
 
     config.action_dispatch.default_headers = {
       'Access-Control-Allow-Origin' => 'https://parallelogram.herokuapp.com',
-      'Access-Control-Request-Method' => %w{GET POST OPTIONS}.join(",")
+      'Access-Control-Request-Method' => %w{GET POST OPTIONS}.join(","),
+      'Access-Control-Allow-Headers' => 'Origin, X-Requested-With, Content-Type, Accept'
     }
   end
 end
