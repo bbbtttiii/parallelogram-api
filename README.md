@@ -1,5 +1,5 @@
 # Parallelogram
-A platform made for curated, multi-disciplinary articles from topics such as natural science, technology, psychology, philosophy, and more. Built with a React/Redux frontend and Rails API backend.
+A platform made for curated, multi-disciplinary articles from topics such as natural science, technology, psychology, philosophy, and more. Built with a React/Redux [frontend](https://github.com/bbbtttiii/parallelogram-frontend) and Rails API backend.
 
 ## Getting Started
 
