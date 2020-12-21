@@ -38,11 +38,11 @@ module Parallelogram
     config.middleware.use ActionDispatch::Cookies
     config.middleware.use ActionDispatch::Session::CookieStore, key: '_cookie_name'
 
-    config.action_dispatch.default_headers = {
-      'Access-Control-Allow-Credentials' => true,
-      'Access-Control-Allow-Origin' => 'https://parallelogram-api.herokuapp.com',
-      'Access-Control-Request-Method' => %w{GET POST OPTIONS}.join(","),
-      'Access-Control-Allow-Headers' => 'Origin, X-Requested-With, Content-Type, Accept'
-    }
+    # config.action_dispatch.default_headers = {
+    #   'Access-Control-Allow-Credentials' => true,
+    #   'Access-Control-Allow-Origin' => 'https://parallelogram-api.herokuapp.com',
+    #   'Access-Control-Request-Method' => %w{GET POST OPTIONS}.join(","),
+    #   'Access-Control-Allow-Headers' => 'Origin, X-Requested-With, Content-Type, Accept'
+    # }
   end
 end
